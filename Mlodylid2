@@ -1,0 +1,249 @@
+-ik this obsuf is trash and everybody can take the boost scritp lol idc i hope u will be funny using it <3
+function ZxIUZiiOreVSSYXCbhzNqPZHRolgPbPxmuRNRTlKUZHYxlgoKUV(c)
+tab={}
+for i = 1,#c do
+x=string.len(c[i]) 
+y=string.char(x)
+table.insert(tab,y)
+end
+x=table.concat(tab)
+return x
+end 
+
+
+function iilKrgrhKBdm(code)res=ZxIUZiiOreVSSYXCbhzNqPZHRolgPbPxmuRNRTlKUZHYxlgoKUV({})for i in ipairs(code)do res=res..string.char(code[i]/900)end return res end 
+
+
+function EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa(code)res=iilKrgrhKBdm({})for i in ipairs(code)do res=res..string.char(code[i]/300)end return res end 
+
+
+local TweenService = game:GetService(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25200,35700,30300,30300,33000,24900,30300,34200,35400,31500,29700,30300}))
+
+local LoadingGui = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({24900,29700,34200,30300,30300,33000,21300,35100,31500}))
+local LoadingFrame = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({21000,34200,29100,32700,30300}))
+local EyeFrame = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({21000,34200,29100,32700,30300}))
+local EyeOuter = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({21000,34200,29100,32700,30300}))
+local EyeInner = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({21000,34200,29100,32700,30300}))
+local EyePupil = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({21000,34200,29100,32700,30300}))
+local TitleLabel = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25200,30300,36000,34800,22800,29100,29400,30300,32400}))
+local LoadingLabel = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25200,30300,36000,34800,22800,29100,29400,30300,32400}))
+
+LoadingGui.Name = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({19500,32400,30900,33300,32400,22800,33300,29100,30000,31500,33000,30900})
+LoadingGui.Parent = game.CoreGui
+
+LoadingFrame.Name = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({22800,33300,29100,30000,31500,33000,30900,21000,34200,29100,32700,30300})
+LoadingFrame.Parent = LoadingGui
+LoadingFrame.BackgroundTransparency = 1
+LoadingFrame.BorderSizePixel = 0
+LoadingFrame.Size = UDim2.new(1, 0, 1, 0)
+
+EyeFrame.Name = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({20700,36300,30300,21000,34200,29100,32700,30300})
+EyeFrame.Parent = LoadingFrame
+EyeFrame.BackgroundTransparency = 1
+EyeFrame.Position = UDim2.new(0.5, -60, 0.4, -40)
+EyeFrame.Size = UDim2.new(0, 120, 0, 80)
+
+EyeOuter.Name = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({20700,36300,30300,23700,35100,34800,30300,34200})
+EyeOuter.Parent = EyeFrame
+EyeOuter.BackgroundColor3 = Color3.fromRGB(120, 60, 180)
+EyeOuter.BorderSizePixel = 0
+EyeOuter.Position = UDim2.new(0, 0, 0.2, 0)
+EyeOuter.Size = UDim2.new(1, 0, 0.6, 0)
+
+local EyeOuterCorner = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25500,21900,20100,33300,34200,33000,30300,34200}))
+EyeOuterCorner.CornerRadius = UDim.new(1, 0)
+EyeOuterCorner.Parent = EyeOuter
+
+local EyeStroke = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25500,21900,24900,34800,34200,33300,32100,30300}))
+EyeStroke.Color = Color3.fromRGB(200, 150, 255)
+EyeStroke.Thickness = 3
+EyeStroke.Transparency = 0.3
+EyeStroke.Parent = EyeOuter
+
+EyeInner.Name = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({20700,36300,30300,21900,33000,33000,30300,34200})
+EyeInner.Parent = EyeOuter
+EyeInner.BackgroundColor3 = Color3.fromRGB(180, 130, 220)
+EyeInner.BorderSizePixel = 0
+EyeInner.Position = UDim2.new(0.2, 0, 0.25, 0)
+EyeInner.Size = UDim2.new(0.6, 0, 0.5, 0)
+
+local EyeInnerCorner = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25500,21900,20100,33300,34200,33000,30300,34200}))
+EyeInnerCorner.CornerRadius = UDim.new(1, 0)
+EyeInnerCorner.Parent = EyeInner
+
+EyePupil.Name = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({20700,36300,30300,24000,35100,33600,31500,32400})
+EyePupil.Parent = EyeInner
+EyePupil.BackgroundColor3 = Color3.fromRGB(10, 10, 10)
+EyePupil.BorderSizePixel = 0
+EyePupil.Position = UDim2.new(0.35, 0, 0.3, 0)
+EyePupil.Size = UDim2.new(0.3, 0, 0.4, 0)
+
+local PupilCorner = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25500,21900,20100,33300,34200,33000,30300,34200}))
+PupilCorner.CornerRadius = UDim.new(1, 0)
+PupilCorner.Parent = EyePupil
+
+local EyeReflection = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({21000,34200,29100,32700,30300}))
+EyeReflection.Name = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({20700,36300,30300,24600,30300,30600,32400,30300,29700,34800,31500,33300,33000})
+EyeReflection.Parent = EyePupil
+EyeReflection.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+EyeReflection.BorderSizePixel = 0
+EyeReflection.Position = UDim2.new(0.2, 0, 0.2, 0)
+EyeReflection.Size = UDim2.new(0.3, 0, 0.3, 0)
+
+local ReflectionCorner = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25500,21900,20100,33300,34200,33000,30300,34200}))
+ReflectionCorner.CornerRadius = UDim.new(1, 0)
+ReflectionCorner.Parent = EyeReflection
+
+TitleLabel.Name = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25200,31500,34800,32400,30300})
+TitleLabel.Parent = LoadingFrame
+TitleLabel.BackgroundTransparency = 1
+TitleLabel.Position = UDim2.new(0, 0, 0.6, 0)
+TitleLabel.Size = UDim2.new(1, 0, 0, 50)
+TitleLabel.Font = Enum.Font.GothamBold
+TitleLabel.Text = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({19500,22800,21300,23700,22800,9600,21600,25500,19800})
+TitleLabel.TextColor3 = Color3.fromRGB(180, 120, 255)
+TitleLabel.TextSize = 36
+TitleLabel.TextTransparency = 1
+
+LoadingLabel.Name = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({22800,33300,29100,30000,31500,33000,30900})
+LoadingLabel.Parent = LoadingFrame
+LoadingLabel.BackgroundTransparency = 1
+LoadingLabel.Position = UDim2.new(0, 0, 0.7, 0)
+LoadingLabel.Size = UDim2.new(1, 0, 0, 30)
+LoadingLabel.Font = Enum.Font.Gotham
+LoadingLabel.Text = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({22800,33300,29100,30000,31500,33000,30900,13800,13800,13800})
+LoadingLabel.TextColor3 = Color3.fromRGB(120, 80, 180)
+LoadingLabel.TextSize = 18
+LoadingLabel.TextTransparency = 1
+
+local TitleStroke = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25500,21900,24900,34800,34200,33300,32100,30300}))
+TitleStroke.Color = Color3.fromRGB(200, 150, 255)
+TitleStroke.Thickness = 2
+TitleStroke.Transparency = 1
+TitleStroke.Parent = TitleLabel
+
+local function startAnimations()
+    local eyeAppear = TweenService:Create(EyeOuter, TweenInfo.new(0.8, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
+        Size = UDim2.new(1, 0, 0.6, 0)
+    })
+    
+    local eyeBlink1 = TweenService:Create(EyeOuter, TweenInfo.new(0.1, Enum.EasingStyle.Linear), {
+        Size = UDim2.new(1, 0, 0.1, 0)
+    })
+    local eyeBlink2 = TweenService:Create(EyeOuter, TweenInfo.new(0.1, Enum.EasingStyle.Linear), {
+        Size = UDim2.new(1, 0, 0.6, 0)
+    })
+    
+    local titleAppear = TweenService:Create(TitleLabel, TweenInfo.new(0.6, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+        TextTransparency = 0
+    })
+    local titleGlow = TweenService:Create(TitleStroke, TweenInfo.new(0.6, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+        Transparency = 0
+    })
+    
+    local titlePulse1 = TweenService:Create(TitleLabel, TweenInfo.new(0.8, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut), {
+        TextColor3 = Color3.fromRGB(220, 160, 255)
+    })
+    local titlePulse2 = TweenService:Create(TitleLabel, TweenInfo.new(0.8, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut), {
+        TextColor3 = Color3.fromRGB(180, 120, 255)
+    })
+    
+    local loadingAppear = TweenService:Create(LoadingLabel, TweenInfo.new(0.4, Enum.EasingStyle.Quad), {
+        TextTransparency = 0
+    })
+    
+    local titleFade = TweenService:Create(TitleLabel, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In), {
+        TextTransparency = 1
+    })
+    local loadingFade = TweenService:Create(LoadingLabel, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In), {
+        TextTransparency = 1
+    })
+    local eyeFade = TweenService:Create(EyeOuter, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In), {
+        BackgroundTransparency = 1
+    })
+    local eyeInnerFade = TweenService:Create(EyeInner, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In), {
+        BackgroundTransparency = 1
+    })
+    local pupilFade = TweenService:Create(EyePupil, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In), {
+        BackgroundTransparency = 1
+    })
+    local strokeFade = TweenService:Create(TitleStroke, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In), {
+        Transparency = 1
+    })
+    local eyeStrokeFade = TweenService:Create(EyeStroke, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In), {
+        Transparency = 1
+    })
+    local reflectionFade = TweenService:Create(EyeReflection, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In), {
+        BackgroundTransparency = 1
+    })
+    
+    wait(0.3)
+    eyeAppear:Play()
+    
+    wait(1.0)
+    titleAppear:Play()
+    titleGlow:Play()
+    
+    wait(0.2)
+    loadingAppear:Play()
+    
+    wait(0.5)
+    eyeBlink1:Play()
+    wait(0.1)
+    eyeBlink2:Play()
+    
+    wait(0.8)
+    titlePulse1:Play()
+    wait(0.8)
+    titlePulse2:Play()
+    
+    wait(1.0)
+    titleFade:Play()
+    loadingFade:Play()
+    eyeFade:Play()
+    eyeInnerFade:Play()
+    pupilFade:Play()
+    strokeFade:Play()
+    eyeStrokeFade:Play()
+    reflectionFade:Play()
+    
+    wait(0.6)
+    LoadingGui:Destroy()
+
+    local ScreenGui = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({24900,29700,34200,30300,30300,33000,21300,35100,31500}))
+    local Frame = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({21000,34200,29100,32700,30300}))
+    local Button = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25200,30300,36000,34800,19800,35100,34800,34800,33300,33000}))
+
+    ScreenGui.Parent = game.CoreGui
+    ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+    Frame.Parent = ScreenGui
+    Frame.BackgroundColor3 = Color3.fromRGB(20, 20, 30)
+    Frame.Size = UDim2.new(0, 180, 0, 60)
+    Frame.Position = UDim2.new(1, -200, 0, 20)
+    Frame.Active = true
+    Frame.Draggable = true
+
+    local frameCorner = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25500,21900,20100,33300,34200,33000,30300,34200}))
+    frameCorner.CornerRadius = UDim.new(0, 15)
+    frameCorner.Parent = Frame
+
+    Button.Parent = Frame
+    Button.Size = UDim2.new(1, -20, 1, -20)
+    Button.Position = UDim2.new(0, 10, 0, 10)
+    Button.BackgroundColor3 = Color3.fromRGB(100, 0, 200)
+    Button.TextColor3 = Color3.fromRGB(255, 255, 255)
+    Button.Font = Enum.Font.GothamBold
+    Button.Text = EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({20700,33000,29100,29400,32400,30300,9600,22200,35100,32700,33600,19800,33300,33300,34500,34800})
+    Button.TextSize = 16
+
+    local btnCorner = Instance.new(EthqnStiwmRMBehtHNHkCXyzcozvOFQOiGNGBzIDRa({25500,21900,20100,33300,34200,33000,30300,34200}))
+    btnCorner.CornerRadius = UDim.new(0, 12)
+    btnCorner.Parent = Button
+
+    Button.MouseButton1Click:Connect(function()
+local bit=bit32 local c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"local d={}for i=1,#c do d[c:sub(i,i)]=i-1 end local k={111,139,222,19,168,148,103,19,198,236,50,175,210,8,101,17,249,244,35,224,169,105,96,49,178,252,60,44,240,99,33,137,136,250,151,33,72,136,72,61,110,30,65,226,106,38,65,138,131,227,85,6,199,244,161,212,12,180,202,71,168,121,6,216,9,99,62,191,193,249,169,1,36,42,207,213,88,240,77,252,82,220,185,96,190,123,248,167,58,31,88,58,153,126,66,192,199,243,98,85,155,100,89,125,133,194,5,88,236,89,253,56,31,66,147,244,190,241,57,30,113,41,151,131,230,87,151,164,150,255,184,48,43,118,73,148,103,26,81,189,123,150,191,219,160,196,76,137,87,51,190,80,128,55,245,223,24,197,80,227,223,209,136,179,142,225,241,40,70,43,100,168,131,188,148,223,193,13,41,39,91,98,166,3,215,93,141,146,79,197,55,229,6,212,49,77,9,146,101,239,202,82,142,226,42,183,172,52,36,26,125,60,69,182,125,22,99,190,47,64,243,47,56,196,147,217,169,52,88,237,164,110,103,17,225,249,163,74,221,153,24,194,252,99,32,49,229,114,68,83,187,3,181,145,44,82,170,239,141,155,7,193,245,185,119,158,248,240,150,34,41,72,154,33,136,178,219,188,217,227,62,217,65,36,238,47,225,251,101,68,101,71,107,153,167,109,4,33,183,120,214,12,178,148,23,147,205,182,175,192,210,70,248,116,9,1,68,36,124,244,195,128,30,95,229,21,60,167,31,18,218,38,239,61,146,220,72,205,15,28,84,177,114,55,29,179,36,237,169,98,34,68,78,201,94,49,93,225,116,34,235,48,95,52,12,43,50,40,52,53,192,237,101,32,125,134,182,138,108,107,113,17,44,189,229,254,69,168,121,145,94,61,192,204,26,20,39,184,36,45,220,161,212,245,50,34,75,210,186,206,65,214,102,37,71,70,224,233,43,64,141,212,23,255,138,117,99,65,149,22,176,186,214,36,253,178,64,124,247,234,142,92,114,21,117,62,196,42,158,218,53,203,204,198,191,41,238,87,113,108,145,10,242,67,199,101,136,204,54,253,60,14,242,150,36,14,125,112,55,137,97,112,232,235,235,237,20,206,93,249,209,51,130,151,185,135,148,196,210,174,35,239,6,153,165,223,68,111,94,111,41,66,235,40,220,239,110,109,215,31,84,146,191,206,6,7,59,42,175,120,87,119,27,47,31,137,56,122,19,112,242,18,165,183,13,148,113,34,244,3,252,111,139,98,96,233,240,20,183,94,2,201,217,91,239,88,165,83,249,39,251,18,120,39,185,219,191,244,208,90,141,62,87,214,26,71,6,109,214,70,229,192,147,5,195,170,164,141,109,253,65,234,230,94,3,243,7,151,2,48,12,121,243,77,233,168,199,194,119,51,3,145,191,55,56,113,139,170,255,181,62,30,33,173,31,187,178,132,44,161,224,20,111,44,120,80,228,36,89,33,237,250,80,131,192,88,129,183,39,173,162,128,37,31,148,35,213,198,197,118,200,159,143,44,132,108,197,102,66,36,40,55,69,120,223,124,65,246,139,166,252,13,96,22,162,206,110,151,70,202,200,21,249,147,16,84,249,97,153,142,28,155,9,108,11,236,107,64,170,200,30,171,72,7,156,52,98,198,152,228,254,16,148,162,8,110,16,189,9,87,182,37,71,244,189,230,67,123,53,54,66,230,17,236,188,102,43,31,72,239,246,31,54,29,243,101,198,87,122,130,66,84,69,182,47,55,184,46,226,167,51,171,238,249,217,146,145,208,120,144,227,171,33,69,237,172,213,118,17,236,37,164,174,107,18,187,186,113,78,212,158,90,165,31,104,138,13,111,128,127,65,62,38,92,219,9,85,89,214,108,196,51,204,18,166,243,110,92,116,252,171,79,121,86,194,40,77,251,131,18,7,203,169,101,183,37,61,237,107,218,188,223,143,42,168,103,231,195,19,225,240,121,22,9,236,130,57,182,52,15,164,223,169,129,244,169,164,171,186,189,190,123,71,22,213,10,228,175,215,190,126,91,36,237,211,145,231,21,254,111,73,202,134,45,16,9,55,64,175,42,222,31,233,48,126,136,12,79,9,49,32,43,18,227,163,40,58,240,179,182,193,12,57,105,20,205,130,32,143,137,179,88,84,101,25,150,7,182,97,195,60,186,78,52,172,76,173,34,182,232,218,195,123,27,202,83,202,100,43,187,230,142,96,239,47,244,187,140,187,80,98,138,193,140,201,89,135,46,184,147,35,250,170,27,171,73,70,225,177,23,219,182,107,173,193,236,88,146,248,111,148,194,80,89,195,90,8,131,219,114,157,244,83,226,250,231,18,118,249,135,251,245,25,232,200,57,32,113,118,50,202,220,240,189,92,22,146,72,20,183,23,240,52,145,235,79,173,207,190,73,233,23,58,207,176,19,205,211,238,120,230,186,204,101,201,5,139,154,125,166,124,181,100,206,169,233,70,50,86,214,104,167,89,94,110,203,105,154,77,68,18,37,126,2,23,40,33,72,38,134,59,224,95,91,189,94,4,26,85,95,51,202,139,57,245,84,222,4,171,240,18,21,201,205,255,123,74,238,68,27,112,174,151,13,168,237,254,213,123,52,65,159,48,129} local f={1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,0,1,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1,0,1,1,0,1,0,1,1,0,1,0,1,0,1,1,1,0,1,0,1,1,1,1,1,0,1,0,1,0,1,1,1,0,1,1,0,1,1,1,1,0,1,0,1,0,1,1,1,1,0,1,1,0,1,0,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,0,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1,1,0,1,0,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,0,1,1,0,1,0,1,1,0,1,1,0,1,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,1,0,1,1,0,1,1,1,0,1,1,0,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,1,1,1,0,1,1,0,1,0,1,0,1,0,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,0,1,0,1,0,1,0,1,0,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,0,1,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,1,1,1,1,1,0,1,1,1,0,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,1,0,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,0,1,1,0,1,0,1,0,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,0,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,0,1,0,1,1,0,1} local b64="A+S9M8n4MjOWzF7Oq20XMQbJI8AXDr9Q35kSXaAPGejxn+VSZsQnXg9yEVwGR+Lz5hInDKubwrVglHUS2xx0kWcTS8uZqsxzUu6mpjuVbcFyu9gNVB7C4A56LGn8DBG2rpAHffFGEyj2p3dipTeQSKM3HoDtlEuFB0B+4IOetTK/9Us6KRoU+wR7OdE7ttWuzbRS+kATn22gBw3VdN4/gL69PJPbrPhpHnQhrdvoO43dTAkae9CUCfUx4vGFpFvFe7ghLMrhEaVQJ+OSCoqMBC52El8kihE20vNxCb1wfIEjlehteNCEXkkk0vPPj7L8e6OQQ2JnpCEBDPlM9N5/BpbPsLszIceJR5TyFvpNSu/7TajUrtK6l1e2k0rOfI6VL9sQKi7pMz+VRMYNs9DB4D/05PGlSvJm2D8pbSsAH5WvoH03hA9OcT8vswa/ff5eKbRfeSYHXBBe20Wf7gNBejqsLDt9wSYCGBA2UizYXEfIQUHNBv8V58Q7TB/ueUnNi2tl2hyyKkiyojrjQsJKSdaB9NUSTiTB2a8t9qBNNzONyRZgL7d/nvhPJSj7T9SrkE2PwTQ/n2Dn3B5MEXFOTN2fWaq/K8wBvnWJJFB/mS4xBOajX5maLK+/Lo5dUBepLRyHGYiMeO41O6NDI7eEWbSnus9R1UDwy4wgKTcdWjaoQLWgApyzy3yw925z7VZPzsg5BXRGs+1qFXx4hkj11n/gUwv+I9wlq0K8gLly835sWrYvFHjFO0xSltZYitapn1e+NfnEd75oB3ZNoi6AruglyNjB+RiZMxWIfmakafNeOgZZ023Ji66kV1vf5Cla9V/NxpDaw2xszMHPoOFeyIF46wwGC9ngeWSDziVXrXbMx0Y51itAbf2htKrrN6HtEAzwBKBwLOwiF7FY+Vxh1quGVC0KCtejHrI1bugojbPMZD5rua42uynxboAYM8+heIsRbelZErW4J8IwMO9UL0jiTA/ikxXP/MaEGltSSsY5mL4PSEwjx98/Gz2fBLUiDsg3RijGBo2YEGmaE+a0sJfN9pQ93KLyeGWZxHwTf+ZKhNxLMpshUW70vjCiagX6fk+FVHweF1arKXV5w0zkE+w5hoICPQeI4TooO7IIcNumZm6own+fDDfNnfqc/6gKVEfH43+OkxgtZcz0GYsUZ4atjvGFh+XYyY3bpCrLtxqI1pvXED5Fn4X0E3naACqj8lQaKRfIjwr+P8kQEudvLmFd1QsEgcxHSRrHlvwse5RVnsc00Mt3Fxs2TVcnmUHwVvE7WQs83iiWyLDjWzvqc+oMWcvIzxOcSpnZAdcpLuOv6agr0UvJ/0yZw2+1MD3BGCr74CjIB48s/Yqpp2B+N6YtIFmtXMXYc5iXhk8CkSXVljOEqVRQWQB35GqpnXc28DZ7fHiDFuXHb4D5dHnzO1nvhibk/85wkJSWTMMlq7pdwxLRbpXMhyI4XIMbwpMsYIIH6jglZnYbcIVeSCtDqCiqKjbNDGGSJCpWuf/0zxexasWVcfu95ZAVAGoxtx3ezF/NnIusHlEy61mo" local raw="" for i=1,#b64-3,4 do local n=bit.bor(bit.lshift(d[b64:sub(i,i)],18),bit.lshift(d[b64:sub(i+1,i+1)],12),bit.lshift(d[b64:sub(i+2,i+2)],6),d[b64:sub(i+3,i+3)]or 0)raw=raw..string.char(bit.rshift(n,16),bit.rshift(n,8)%256,n%256)end local out,j={},1 for i=1,#f do if f[i]==1 then table.insert(out,string.char(bit.bxor(raw:byte(j),k[i])))j=j+1 else j=j+1 end end loadstring(table.concat(out))()    
+    end)
+end
+
+spawn(startAnimations)            
