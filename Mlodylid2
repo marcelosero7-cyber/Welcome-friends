@@ -1,4 +1,13 @@
 -- ik this obsuf is trash and everybody can take the boost scritp lol idc i hope u will be funny using it <3
+local message = "more script keyless here https://discord.gg/gcwe7gae"
+setclipboard(message)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Clipboard";
+Text = "more scripts keyless here!";
+Duration = 5;
+})
+
+
 function ZxIUZiiOreVSSYXCbhzNqPZHRolgPbPxmuRNRTlKUZHYxlgoKUV(c)
 tab={}
 for i = 1,#c do
